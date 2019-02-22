@@ -1,0 +1,29 @@
+c:/users/che44287/documents/visual studio 2015/Projects/CarnivalCinemas/Carnival.BLL/bin/Debug/Carnival.BLL.dll
+c:/users/che44287/documents/visual studio 2015/Projects/CarnivalCinemas/Carnival.BLL/bin/Debug/Carnival.BLL.pdb
+c:/users/che44287/documents/visual studio 2015/Projects/CarnivalCinemas/Carnival.BLL/bin/Debug/Carnival.DBL.dll
+c:/users/che44287/documents/visual studio 2015/Projects/CarnivalCinemas/Carnival.BLL/bin/Debug/Carnival.DBL.pdb
+c:/users/che44287/documents/visual studio 2015/Projects/CarnivalCinemas/Carnival.BLL/obj/Debug/Carnival.BLL.csprojResolveAssemblyReference.cache
+c:/users/che44287/documents/visual studio 2015/Projects/CarnivalCinemas/Carnival.BLL/obj/Debug/Carnival.BLL.dll
+c:/users/che44287/documents/visual studio 2015/Projects/CarnivalCinemas/Carnival.BLL/obj/Debug/Carnival.BLL.pdb
+C:/Users/Anshul/Downloads/Compressed/CarnivalCinemas/Carnival.BLL/obj/Debug/Carnival.BLL.csprojResolveAssemblyReference.cache
+C:/Users/Anshul/Downloads/Compressed/CarnivalCinemas/Carnival.BLL/obj/Debug/Carnival.BLL.dll
+C:/Users/Anshul/Downloads/Compressed/CarnivalCinemas/Carnival.BLL/bin/Debug/Carnival.BLL.dll
+C:/Users/Anshul/Downloads/Compressed/CarnivalCinemas/Carnival.BLL/bin/Debug/Carnival.BLL.pdb
+C:/Users/Anshul/Downloads/Compressed/CarnivalCinemas/Carnival.BLL/bin/Debug/Carnival.DBL.dll
+C:/Users/Anshul/Downloads/Compressed/CarnivalCinemas/Carnival.BLL/bin/Debug/mscorlib.dll
+C:/Users/Anshul/Downloads/Compressed/CarnivalCinemas/Carnival.BLL/bin/Debug/Carnival.DBL.pdb
+C:/Users/Anshul/Downloads/Compressed/CarnivalCinemas/Carnival.BLL/bin/Debug/normidna.nlp
+C:/Users/Anshul/Downloads/Compressed/CarnivalCinemas/Carnival.BLL/bin/Debug/normnfc.nlp
+C:/Users/Anshul/Downloads/Compressed/CarnivalCinemas/Carnival.BLL/bin/Debug/normnfd.nlp
+C:/Users/Anshul/Downloads/Compressed/CarnivalCinemas/Carnival.BLL/bin/Debug/normnfkc.nlp
+C:/Users/Anshul/Downloads/Compressed/CarnivalCinemas/Carnival.BLL/bin/Debug/normnfkd.nlp
+C:/Users/Anshul/Downloads/Compressed/CarnivalCinemas/Carnival.BLL/obj/Debug/Carnival.BLL.pdb
+/Users/mayankraj/Downloads/Projects/CarnivalCinemas/Carnival.BLL/bin/Debug/Carnival.BLL.dll
+/Users/mayankraj/Downloads/Projects/CarnivalCinemas/Carnival.BLL/bin/Debug/Carnival.BLL.pdb
+/Users/mayankraj/Downloads/Projects/CarnivalCinemas/Carnival.BLL/bin/Debug/Carnival.DBL.dll
+/Users/mayankraj/Downloads/Projects/CarnivalCinemas/Carnival.BLL/bin/Debug/Carnival.DBL.pdb
+/Users/mayankraj/Downloads/Projects/CarnivalCinemas/Carnival.BLL/obj/Debug/Carnival.BLL.csprojAssemblyReference.cache
+/Users/mayankraj/Downloads/Projects/CarnivalCinemas/Carnival.BLL/obj/Debug/Carnival.BLL.csproj.CoreCompileInputs.cache
+/Users/mayankraj/Downloads/Projects/CarnivalCinemas/Carnival.BLL/obj/Debug/Carnival.BLL.csproj.CopyComplete
+/Users/mayankraj/Downloads/Projects/CarnivalCinemas/Carnival.BLL/obj/Debug/Carnival.BLL.dll
+/Users/mayankraj/Downloads/Projects/CarnivalCinemas/Carnival.BLL/obj/Debug/Carnival.BLL.pdb

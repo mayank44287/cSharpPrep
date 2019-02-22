@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<ArrayOfLogin xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Login>
+    <UserId>mayank</UserId>
+    <Password>mayank123</Password>
+  </Login>
+</ArrayOfLogin>

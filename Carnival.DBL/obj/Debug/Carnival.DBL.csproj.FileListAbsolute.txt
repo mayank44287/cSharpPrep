@@ -1,0 +1,21 @@
+c:/users/che44287/documents/visual studio 2015/Projects/CarnivalCinemas/Carnival.DBL/obj/Debug/Carnival.DBL.csprojResolveAssemblyReference.cache
+c:/users/che44287/documents/visual studio 2015/Projects/CarnivalCinemas/Carnival.DBL/bin/Debug/Carnival.DBL.dll
+c:/users/che44287/documents/visual studio 2015/Projects/CarnivalCinemas/Carnival.DBL/bin/Debug/Carnival.DBL.pdb
+c:/users/che44287/documents/visual studio 2015/Projects/CarnivalCinemas/Carnival.DBL/obj/Debug/Carnival.DBL.dll
+c:/users/che44287/documents/visual studio 2015/Projects/CarnivalCinemas/Carnival.DBL/obj/Debug/Carnival.DBL.pdb
+C:/Users/Anshul/Downloads/Compressed/CarnivalCinemas/Carnival.DBL/bin/Debug/Carnival.DBL.dll
+C:/Users/Anshul/Downloads/Compressed/CarnivalCinemas/Carnival.DBL/bin/Debug/Carnival.DBL.pdb
+C:/Users/Anshul/Downloads/Compressed/CarnivalCinemas/Carnival.DBL/bin/Debug/mscorlib.dll
+C:/Users/Anshul/Downloads/Compressed/CarnivalCinemas/Carnival.DBL/bin/Debug/normidna.nlp
+C:/Users/Anshul/Downloads/Compressed/CarnivalCinemas/Carnival.DBL/bin/Debug/normnfc.nlp
+C:/Users/Anshul/Downloads/Compressed/CarnivalCinemas/Carnival.DBL/bin/Debug/normnfd.nlp
+C:/Users/Anshul/Downloads/Compressed/CarnivalCinemas/Carnival.DBL/bin/Debug/normnfkc.nlp
+C:/Users/Anshul/Downloads/Compressed/CarnivalCinemas/Carnival.DBL/bin/Debug/normnfkd.nlp
+C:/Users/Anshul/Downloads/Compressed/CarnivalCinemas/Carnival.DBL/obj/Debug/Carnival.DBL.dll
+C:/Users/Anshul/Downloads/Compressed/CarnivalCinemas/Carnival.DBL/obj/Debug/Carnival.DBL.pdb
+/Users/mayankraj/Downloads/Projects/CarnivalCinemas/Carnival.DBL/bin/Debug/Carnival.DBL.dll
+/Users/mayankraj/Downloads/Projects/CarnivalCinemas/Carnival.DBL/bin/Debug/Carnival.DBL.pdb
+/Users/mayankraj/Downloads/Projects/CarnivalCinemas/Carnival.DBL/obj/Debug/Carnival.DBL.csprojAssemblyReference.cache
+/Users/mayankraj/Downloads/Projects/CarnivalCinemas/Carnival.DBL/obj/Debug/Carnival.DBL.csproj.CoreCompileInputs.cache
+/Users/mayankraj/Downloads/Projects/CarnivalCinemas/Carnival.DBL/obj/Debug/Carnival.DBL.dll
+/Users/mayankraj/Downloads/Projects/CarnivalCinemas/Carnival.DBL/obj/Debug/Carnival.DBL.pdb

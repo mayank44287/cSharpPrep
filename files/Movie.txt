@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<ArrayOfMovie xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Movie>
+    <MovId>1</MovId>
+    <MovName>Sultan</MovName>
+    <MovDescription>actiona and drama</MovDescription>
+    <ScreenId>0</ScreenId>
+    <Capacity>0</Capacity>
+    <SeatsLeft>0</SeatsLeft>
+    <price>250</price>
+    <date>0001-01-01T00:00:00</date>
+  </Movie>
+  <Movie>
+    <MovId>2</MovId>
+    <MovName>raja babu</MovName>
+    <MovDescription>romance</MovDescription>
+    <ScreenId>0</ScreenId>
+    <Capacity>0</Capacity>
+    <SeatsLeft>0</SeatsLeft>
+    <price>230</price>
+    <date>0001-01-01T00:00:00</date>
+  </Movie>
+</ArrayOfMovie>

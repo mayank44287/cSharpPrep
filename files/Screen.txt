@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<ArrayOfScreen xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Screen>
+    <ScreenId>1</ScreenId>
+    <Capacity>200</Capacity>
+  </Screen>
+  <Screen>
+    <ScreenId>2</ScreenId>
+    <Capacity>240</Capacity>
+  </Screen>
+</ArrayOfScreen>

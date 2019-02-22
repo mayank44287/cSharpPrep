@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<ArrayOfTimings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Timings>
+    <ShowTimeId>1</ShowTimeId>
+    <ShowTime>9</ShowTime>
+  </Timings>
+  <Timings>
+    <ShowTimeId>2</ShowTimeId>
+    <ShowTime>12</ShowTime>
+  </Timings>
+</ArrayOfTimings>
